@@ -1,0 +1,10 @@
+#!/bin/bash
+
+RN_TITLE="RetroNAS"
+RN_TCPSER="TCPSer"
+RN_MENU="menu"
+RN_TOOLS="Tools"
+RN_IPADDRESS="My IP addresses:"
+RN_PLSOPT="Please select an option"
+RN_PLSSRV="Please select an service to check"
+RN_MAIN_MENU="Main Menu"
